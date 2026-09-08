@@ -26,20 +26,25 @@ Each repository in this organization contains a different mission. Open the miss
 
 ## 🗺️ The Kingdom Map
 
-Your journey will take you through different regions of Codoria:
+Your journey will take you through different regions of Codoria. Some regions are part of the main adventure, while others are secret bonus regions that teams may choose to unlock.
 
-| Region | Knowledge required | Status |
-|---|---|---|
-| 🏕️ Training Grounds | JavaScript fundamentals | 🔒 Locked |
-| 🏛️ Hall of Elements | DOM and events | 🔒 Locked |
-| ⚔️ Royal Server | Node.js | 🔒 Locked |
-| 🗺️ Kingdom Routes | Express | 🔒 Locked |
-| 📜 Hall of Scrolls | EJS | 🔒 Locked |
-| 🍃 Royal Archives | MongoDB and Mongoose | 🔒 Locked |
-| ⚛️ Component Castle | React | 🔒 Locked |
-| 🏰 Codoria Citadel | Full-stack development | 🔒 Locked |
+| Region | Knowledge required | Mission type | Status |
+|---|---|---|---|
+| 🏕️ Training Grounds | JavaScript fundamentals | ⭐ Bonus Region | 🔐 Available to Unlock |
+| 🏛️ Hall of Elements | DOM and events | ⭐ Bonus Region | 🔐 Available to Unlock |
+| ⚔️ Royal Server | Node.js | Main Mission | 🔒 Locked |
+| 🗺️ Kingdom Routes | Express | Main Mission | 🔒 Locked |
+| 📜 Hall of Scrolls | EJS | Main Mission | 🔒 Locked |
+| 🍃 Royal Archives | MongoDB and Mongoose | Main Mission | 🔒 Locked |
+| ⚛️ Component Castle | React | Main Mission | 🔒 Locked |
+| 🏰 Codoria Citadel | Full-stack development | Final Mission | 🔒 Locked |
 
-The instructor will announce when a new region and its missions have been unlocked.
+### ⭐ Secret Bonus Regions
+
+Teams may spend their collected **Kingdom Points** to unlock an optional JavaScript or DOM mission. Completing it allows the team to recover the points they spent and earn additional bonus points!
+
+The instructor will announce when main regions become available and when teams have collected enough points to unlock a secret region.
+
 
 ---
 
