@@ -165,11 +165,18 @@ Every repository represents a new chapter in the story and contains:
 
 Start with:
 
-### 🚪 Mission I: The Fallen Gate
+### 🚪 [Mission I: The Fallen Gate](https://github.com/SEB-PT-9-Missions/Mission-I-The-Fallen-Gate)
 
 The Dark Bug has attacked the Royal Server. Repair the damaged Express route and reopen the gates of Codoria.
 
+---
+
+### 🏰 [Mission II: The Cursed Royal Marketplace](https://github.com/SEB-PT-9-Missions/Mission-II-The-Cursed-Royal-Marketplace)
+
+The Dark Bug has placed a powerful curse on Codoria’s marketplace. Repair the corrupted MEN Stack, restore the magical artifacts and reopen the Royal Marketplace.
+
 > Additional mission links will appear here as new regions are unlocked.
+
 
 ---
 
