@@ -177,8 +177,8 @@ The Dark Bug has attacked the Royal Server. Repair the damaged Express route and
 
 | Mission | Region | Status |
 |---|---|---|
-| Mission I: The Fallen Gate | 🗺️ Kingdom Routes | ⚔️ Active |
-| Mission II: Coming Soon | 🍃 Royal Archives | 🔒 Locked |
+| Mission I: The Fallen Gate | 🗺️ Kingdom Routes | ✅ Completed |
+| Mission II: Coming Soon | 🍃 Royal Archives | ✅ Completed  |
 | Mission III: Coming Soon | ⚛️ Component Castle | 🔒 Locked |
 
 ---
