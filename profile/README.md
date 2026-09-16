@@ -23,23 +23,25 @@ Each repository in this organization contains a different mission. Open the miss
 > Every bug defeated brings the kingdom one step closer to peace. 🐛⚔️
 
 ---
-
 ## 🗺️ The Kingdom Map
 
-Your journey will take you through different regions of Codoria. Some regions are part of the main adventure, while others are secret bonus regions that teams may choose to unlock.
+Your journey will take you through the different regions of Codoria. Some regions are part of the main adventure, while others are secret bonus regions that teams may choose to unlock.
 
-| Region | Knowledge required | Mission type | Status |
-|---|---|---|---|
-| 🏕️ Training Grounds | JavaScript fundamentals | ⭐ Bonus Region | 🔐 Available to Unlock |
-| 🏛️ Hall of Elements | DOM and events | ⭐ Bonus Region | 🔐 Available to Unlock |
-| ⚔️ Royal Server | Node.js | Main Mission | 🔒 Locked |
-| 🗺️ Kingdom Routes | Express | Main Mission | 🔒 Locked |
-| 📜 Hall of Scrolls | EJS | Main Mission | 🔒 Locked |
-| 🍃 Royal Archives | MongoDB and Mongoose | Main Mission | 🔒 Locked |
-| ⚛️ Component Castle | React | Main Mission | 🔒 Locked |
-| 🏰 Codoria Citadel | Full-stack development | Final Mission | 🔒 Locked |
+| Region               | Knowledge required      | Mission type                                                                                                             | Status                 |
+| -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| 🏕️ Training Grounds | JavaScript fundamentals | ⭐ Bonus Region                                                                                                           | 🔐 Available to Unlock |
+| 🏛️ Hall of Elements | DOM and events          | ⭐ Bonus Region                                                                                                           | 🔐 Available to Unlock |
+| ⚔️ Royal Server      | Node.js                 | Main Adventure                                                                                                           | ✅ Completed            |
+| 🗺️ Kingdom Routes   | Express                 | [Mission I: The Fallen Gate](https://github.com/SEB-PT-9-Missions/Mission-I-The-Fallen-Gate)                             | ✅ Completed            |
+| 📜 Hall of Scrolls   | EJS                     | Main Adventure                                                                                                           | ✅ Completed            |
+| 🍃 Royal Archives    | MongoDB and Mongoose    | [Mission II: The Cursed Royal Marketplace](https://github.com/SEB-PT-9-Missions/Mission-II-The-Cursed-Royal-Marketplace) | ⚔️ Active              |
+| ⚛️ Component Castle  | React                   | Main Mission                                                                                                             | 🔒 Locked              |
+| 🏰 Codoria Citadel   | Full-stack development  | Final Mission                                                                                                            | 🔒 Locked              |
 
 ### ⭐ Secret Bonus Regions
+
+The **Training Grounds** and the **Hall of Elements** are optional regions. Teams may unlock these challenges to earn additional Kingdom Points and Royal Seals.
+
 
 Teams may spend their collected **Kingdom Points** to unlock an optional JavaScript or DOM mission. Completing it allows the team to recover the points they spent and earn additional bonus points!
 
